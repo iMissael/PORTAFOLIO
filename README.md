@@ -1,11 +1,22 @@
-Portafolio Web - Unidad 1
+# 🖥️ Portafolio Web - Unidad 1
 
-Este proyecto forma parte del curso de Programación Web, y representa un portafolio web estático en el que se presenta información personal, académica y profesional del desarrollador. El objetivo es aplicar conocimientos de HTML, CSS y JavaScript para construir un sitio web organizado y visualmente atractivo.
+## 📘 Descripción
 
-Estructura general
-El portafolio está compuesto por un sitio web con múltiples secciones accesibles desde un menú de navegación. Se ha utilizado una plantilla responsiva basada en Bootstrap 5 para facilitar el diseño adaptable a diferentes dispositivos.
+Este proyecto forma parte del curso de **Programación Web**, y representa un **portafolio web estático** en el que se presenta información personal, académica y profesional del desarrollador.  
+El objetivo es aplicar conocimientos de **HTML, CSS y JavaScript** para construir un sitio web organizado y visualmente atractivo.
 
-Menús principales del sitio:
+---
+
+## 🧩 Estructura general
+
+El portafolio está compuesto por un sitio web con múltiples secciones accesibles desde un menú de navegación.  
+Se ha utilizado una **plantilla responsiva** basada en **Bootstrap 5** para facilitar el diseño adaptable a diferentes dispositivos.
+
+---
+
+## 🧭 Menús principales del sitio
+
+
 Inicio: Página principal con bienvenida e imagen destacada.
 
 
@@ -22,6 +33,13 @@ Portafolio: Proyectos realizados con imágenes y descripciones breves.
 
 
 ![image](https://github.com/user-attachments/assets/9a7e8b34-28aa-4abd-b534-a452df6e9ce0)
+
+
+Resume:
+
+
+![image](https://github.com/user-attachments/assets/819de122-48c4-421b-ac3a-94402b5afca2)
+
 
 
 Contacto: Formulario básico para enviar mensajes (solo interfaz).
