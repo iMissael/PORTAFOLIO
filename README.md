@@ -47,8 +47,14 @@ Proyecto 10 al 18
 Cada uno está ilustrado con una imagen (assets/img/portfolio/X.png) y enlaza a su propia página de detalles.
 
 
-
 ![image](https://github.com/user-attachments/assets/9a7e8b34-28aa-4abd-b534-a452df6e9ce0)
+
+
+# Sección de index donde coloco mis proyectos del portafolio
+
+
+![image](https://github.com/user-attachments/assets/70d4f905-bbfc-4608-a415-f13e1f62cf94)
+
 
 
 **Resume:**
@@ -88,7 +94,7 @@ Los Trabajos utilizados para el portafolio son los realizados durante las clases
 ![image](https://github.com/user-attachments/assets/a345edbc-3e9a-4717-9a90-89271f845eba)
 
 
-##Pages
+## Pages
 
 Vista mi Portafolio;  https://imissael.github.io/Portafolio/
 
