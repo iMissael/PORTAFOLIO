@@ -1,0 +1,33 @@
+h1 {
+  color: white;
+  text-align: center;
+}
+h2 {
+  color: white;
+  text-align: center;
+}
+h3 {
+  color: white;
+  text-align: center;
+}
+h4 {
+  color: white;
+  text-align: center;
+}
+h5 {
+  color: white;
+  text-align: center;
+}
+h6 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color: red;
+}
+body {
+    background-color: gray;
+  }
