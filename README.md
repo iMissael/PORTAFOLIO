@@ -17,7 +17,7 @@ Se ha utilizado una **plantilla responsiva** basada en **Bootstrap 5** para faci
 # Menús principales del sitio
 
 
-Inicio: Página principal con bienvenida e imagen destacada.
+**Inicio:** Página principal con bienvenida e imagen destacada.
 
 
 ![image](https://github.com/user-attachments/assets/55962c4f-4695-4687-bd61-2a7fb1214e99)
@@ -48,6 +48,10 @@ Contacto: Formulario básico para enviar mensajes (solo interfaz).
 ![image](https://github.com/user-attachments/assets/4da4c844-dfd5-44fd-a897-a4d98123b2f7)
 
 
+Los Trabajos utilizados para el portafolio son los realizados durante las clases, del 1 al 18
+
+
+![image](https://github.com/user-attachments/assets/a345edbc-3e9a-4717-9a90-89271f845eba)
 
 
 Portafolio;  https://imissael.github.io/Portafolio/
