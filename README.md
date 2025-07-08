@@ -23,26 +23,60 @@ Se ha utilizado una **plantilla responsiva** basada en **Bootstrap 5** para faci
 ![image](https://github.com/user-attachments/assets/55962c4f-4695-4687-bd61-2a7fb1214e99)
 
 
-Sobre mí: Información personal, habilidades y datos de contacto.
+**Sobre mí:** Información personal, habilidades y datos de contacto.
 
 
 ![image](https://github.com/user-attachments/assets/bd65c5ba-93fe-43a1-b350-c9f50b4e3c57)
 
 
-Portafolio: Proyectos realizados con imágenes y descripciones breves.
+**Portafolio:** Proyectos realizados con imágenes y descripciones breves.
+
+Esta sección muestra una galería de proyectos realizados, cada uno en una tarjeta que incluye:
+
+Imagen en miniatura
+
+Título del proyecto
+
+Botón para ampliar la imagen (glightbox)
+
+Botón para ver más detalles (redirecciona a portfolio-details - X.html)
+
+Ejemplo de proyectos incluidos:
+
+Proyecto 10 al 18
+Cada uno está ilustrado con una imagen (assets/img/portfolio/X.png) y enlaza a su propia página de detalles.
+
 
 
 ![image](https://github.com/user-attachments/assets/9a7e8b34-28aa-4abd-b534-a452df6e9ce0)
 
 
-Resume:
+**Resume:**
 
 
 ![image](https://github.com/user-attachments/assets/819de122-48c4-421b-ac3a-94402b5afca2)
 
 
 
-Contacto: Formulario básico para enviar mensajes (solo interfaz).
+**Contacto:** Formulario básico para enviar mensajes (solo interfaz).
+
+Esta sección permite al visitante ponerse en contacto a través de un formulario.
+
+Incluye:
+
+Información de contacto (ubicación, teléfono, correos)
+
+Formulario con los campos:
+
+Nombre
+
+Correo electrónico
+
+Asunto
+
+Mensaje
+
+Botón para enviar el mensaje
 
 
 ![image](https://github.com/user-attachments/assets/4da4c844-dfd5-44fd-a897-a4d98123b2f7)
